@@ -4,7 +4,7 @@
 [![maintainer](https://img.shields.io/badge/maintainer-Goran%20Zunic%20%40panbachi-blue.svg?style=for-the-badge)](https://www.panbachi.de)
 
 **Font and german layout based on https://www.mikrocontroller.net/articles/Word_Clock**
-
+ 
 # Requirements
 
 ## Healthcheck
