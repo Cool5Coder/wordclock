@@ -35,6 +35,7 @@ Make your Arduino ready for Wemos D1 mini e.g. https://makesmart.net/blog/read/e
 - Upload the sketch `wordclock/wordclock.ino` to your Wemos D1 mini (or other ESP8266).
 - Enjoy
 
+
 # Usage
 The WordClock creates a WiFi-Hotspot with the name "WordClock". Connect e.g. your smartphone to the hotspot and you will be forwared to the config page, where you can set the WiFi credentials.
 Check in your router what IP-adress your WordClock got. Open a webbrowser and go to `http://[YOUR_WORDCLOCK_IP]`. For (example) the IP-adress `192.168.178.20` go to `http://192.168.178.20`.
